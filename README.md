@@ -1,7 +1,7 @@
 # Movie Recommendation Using Cosine Similarity
 
 ## Formula
-### 1. Cosine Similarity
+### Cosine Similarity
 Cosine Similarity measures the cosine of the angle between two vectors, representing their similarity:
 
 $$
