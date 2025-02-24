@@ -23,7 +23,7 @@ streamlit run movie_recsys_imdb.py
 ```
 ## Future Improvement
 * Using TF-IDF to handle genres more flexibly.
-* Combine with another model to improve accuracy reccomendation
+* Combine with another model to improve accuracy recommendation
 * PLEASE TEACH ME
   
 ## Preview
