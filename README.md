@@ -13,4 +13,22 @@ Where:
 - $$\( \|\|A\|\|)$$ is the Euclidean norm (magnitude) of vector A
 - $$\( \|\|B\|\|)$$ is the Euclidean norm (magnitude) of vector B
 
+## Running
+Clone this repository 
+```
+git clone https://github.com/FikriFz-17/movie_recsys_cosine_similarity.git
+``` 
+```
+streamlit run movie_recsys_imdb.py
+```
+## Future Improvement
+* Using TF-IDF to handle genres more flexibly.
+* Combine with another model to improve accuracy reccomendation
+* PLEASE TEACH ME
+  
+## Preview
+![Screenshot 2025-02-24 234934](https://github.com/user-attachments/assets/a948037b-dfb8-4cca-a39f-481bb3a31b4d)
+
+
+
 
